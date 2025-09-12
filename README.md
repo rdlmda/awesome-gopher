@@ -33,6 +33,7 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in 
 - [Bombadillo](https://bombadillo.colorfield.space/) (CLI, Linux)
 - [Gophercle](https://github.com/k1gen/gophercle) (GUI, Android)
 - [Gophie](https://gophie.org/) (GUI, Java)
+- [Lagrange](https://gmi.skyjake.fi/lagrange/) (GUI, Windows, Linux, Android, iOS) - Aimed at Gemini, it's Gopher-compatible
 - [Lynx](https://lynx.invisible-island.net/) (CLI, Linux)
 - [pherguson](https://github.com/olivierpilotte/pherguson) (CLI, Python)
 - [Pocket Gopher](https://github.com/afonsotrepa/PocketGopher) (GUI, Android)
