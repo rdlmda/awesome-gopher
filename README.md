@@ -26,7 +26,7 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in 
 (*) items marked like this are gopher resources linked on Floodgap's Gopher Proxy
 
 ## Introduction to Gopher
-- ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher)*
+- ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher) (*)
 - [Gopher article on the Tilde Club's Wiki](https://tilde.club/wiki/gopher.html)
 
 ## Gopher Clients
@@ -40,27 +40,27 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in 
 ## Gopher Servers
 - [Gopher2000](https://github.com/muffinista/gopher2000): a ruby-based Gopher server. It is built for speedy, enjoyable development of all sorts of gopher sites.
 - [Gophernicus](https://github.com/gophernicus/gophernicus): a modern, full-featured (and hopefully) secure gopher daemon.
-- [pygopherd](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.quux.org/1/devel/gopher/pygopherd)*: the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
+- [pygopherd](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.quux.org/1/devel/gopher/pygopherd) (*): the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
 - [spacecookie](https://github.com/sternenseemann/spacecookie): gopher library & server written in Haskell.
 
 ## HTTP Proxies
-- [Bucky](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://khzae.net/1/bucky)*:  An HTTP proxy for the Bucktooth Gopher server
+- [Bucky](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://khzae.net/1/bucky) (*):  An HTTP proxy for the Bucktooth Gopher server
 - [Floodgap Gopher Proxy](https://gopher.floodgap.com/gopher) [[Standard](https://gopher.floodgap.com/gopher/gw)] [[Lite](https://gopher.floodgap.com/gopher/gw.lite)]
 - [gophper-proxy](https://github.com/muffinista/gophper-proxy): A PHP/JS-based proxy for gopher servers
 
 ## Gopher Frontends
-- [Gopherpedia](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopherpedia.com)* - Wikipedia 
-- [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn)* - Hacker News
-- [lite.cnn.com on gopher - inofficial](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn)* - CNN News
+- [Gopherpedia](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopherpedia.com) (*) - Wikipedia 
+- [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn) (*) - Hacker News
+- [lite.cnn.com on gopher - inofficial](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (*) - CNN News
 - [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
 
 ## Search Engines
-- [Quarry](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/quarry)*
-- [Veronica-2](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/v2)*
+- [Quarry](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/quarry) (*)
+- [Veronica-2](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/v2) (*)
 
 ## Gopherspace Census
-- [Floodgap's "All the gopher servers (that we know of)"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/world)*
-- [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/ogup)*
+- [Floodgap's "All the gopher servers (that we know of)"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/world) (*)
+- [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/ogup) (*)
 
 ## Phlog aggregators
-- [Gopher.black's phlog aggregator](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.black:70/1/moku-pona)*
+- [Gopher.black's phlog aggregator](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.black:70/1/moku-pona) (*)
