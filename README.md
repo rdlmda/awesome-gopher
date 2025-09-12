@@ -23,7 +23,7 @@ a8"    `Y88 a8"     "8a 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
 Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in particular [Awesome Gemini](https://github.com/kr1sp1n/awesome-gemini).
 ###### If Gemini can have theirs, why not Gopher?
 
-(*) items marked like this are gopher resources linked on Floodgap's Gopher Proxy
+(*) items marked like this will open on a Gopher Proxy
 
 ## Introduction to Gopher
 - ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher) (*)
@@ -64,4 +64,5 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in 
 - [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/ogup) (*)
 
 ## Phlog aggregators
+- [Bongusta](https://gopher.tildeverse.org/i-logout.cz/1/bongusta/) (*)
 - [Gopher.black's phlog aggregator](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.black:70/1/moku-pona) (*)
