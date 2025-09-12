@@ -23,6 +23,8 @@ a8"    `Y88 a8"     "8a 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
 Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in particular [Awesome Gemini](https://github.com/kr1sp1n/awesome-gemini).
 ###### If Gemini can have theirs, why not Gopher?
 
+You are **EXTREMELY** encouraged and welcomed to contribute to this list!
+
 (*) items marked like this will open on a Gopher Proxy
 
 ## Introduction to Gopher
