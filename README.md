@@ -1,4 +1,20 @@
 # Gopher Awesome
+                                    88                                 
+                                    88                                 
+                                    88                                 
+ ,adPPYb,d8  ,adPPYba,  8b,dPPYba,  88,dPPYba,   ,adPPYba, 8b,dPPYba,  
+a8"    `Y88 a8"     "8a 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8  
+8b       88 8b       d8 88       d8 88       88 8PP""""""" 88          
+"8a,   ,d88 "8a,   ,a8" 88b,   ,a8" 88       88 "8b,   ,aa 88          
+ `"YbbdP"Y8  `"YbbdP"'  88`YbbdP"'  88       88  `"Ybbd8"' 88          
+ aa,    ,88             88                                             
+  "Y8bbdP"              88                                             
+
+ 8888b. 888  888  888 .d88b. .d8888b  .d88b. 88888b.d88b.  .d88b.  
+    "88b888  888  888d8P  Y8b88K     d88""88b888 "888 "88bd8P  Y8b 
+.d888888888  888  88888888888"Y8888b.888  888888  888  88888888888 
+888  888Y88b 888 d88PY8b.         X88Y88..88P888  888  888Y8b.     
+"Y888888 "Y8888888P"  "Y8888  88888P' "Y88P" 888  888  888 "Y8888  
 
 ## About this list
 
