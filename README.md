@@ -46,6 +46,7 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in 
 ## HTTP Proxies
 - [Bucky](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://khzae.net/1/bucky) (*):  An HTTP proxy for the Bucktooth Gopher server
 - [Floodgap Gopher Proxy](https://gopher.floodgap.com/gopher) [[Standard](https://gopher.floodgap.com/gopher/gw)] [[Lite](https://gopher.floodgap.com/gopher/gw.lite)]
+- [gopherproxy](https://gopher.tildeverse.org/) [[source](https://tildegit.org/tildeverse/gopherproxy)] - just add the gopher URL (minus "gopher://") after the first "/".
 - [gophper-proxy](https://github.com/muffinista/gophper-proxy): A PHP/JS-based proxy for gopher servers
 
 ## Gopher Frontends
