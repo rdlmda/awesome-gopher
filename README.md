@@ -75,3 +75,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 ## Phlog aggregators
 - [Bongusta](https://gopher.tildeverse.org/i-logout.cz/1/bongusta/) (*)
 - [Gopher.black's phlog aggregator](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.black:70/1/moku-pona) (*)
+
+## Games
+- [Hangman](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/1/hangman/) [[alt. link](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr:70/1/OnlineTools/hangman.cgi)] (*) - the Gopher-powered hangman game!
+- [World of Solitaire](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://worldofsolitaire.com/) (*) - Klondike & 79 other Gopher Solitaire Games!
