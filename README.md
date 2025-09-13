@@ -57,6 +57,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn) (*) - Hacker News
 - [lite.cnn.com on gopher - inofficial](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (*) - CNN News
 - [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
+- [Project Gutenberg](https://gopher.tildeverse.org/gopher.pglaf.org/) (*)
 
 ## Search Engines
 - [Contrition](https://gopher.tildeverse.org/forthworks.com/1/contrition) (*)
@@ -65,6 +66,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 
 ## Gopherspace Census
 - [Floodgap's "All the gopher servers (that we know of)"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/world) (*)
+- [The Gopher Lawn](https://gopher.tildeverse.org/bitreich.org/1/lawn) (*)
 - [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/ogup) (*)
 
 ## Phlog aggregators
