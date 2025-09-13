@@ -21,7 +21,7 @@ a8"    `Y88 a8"     "8a 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
 ## About this list
 
 Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in particular [Awesome Gemini](https://github.com/kr1sp1n/awesome-gemini).
-###### If Gemini can have theirs, why not Gopher?
+###### (If Gemini can have theirs, why not Gopher?)
 
 You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 
@@ -35,7 +35,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Bombadillo](https://bombadillo.colorfield.space/) (CLI, Linux)
 - [Gophercle](https://github.com/k1gen/gophercle) (GUI, Android)
 - [Gophie](https://gophie.org/) (GUI, Java)
-- [Lagrange](https://gmi.skyjake.fi/lagrange/) (GUI, Windows, Linux, Android, iOS) - Aimed at Gemini, it's Gopher-compatible
+- [Lagrange](https://gmi.skyjake.fi/lagrange/) (GUI, Windows, Linux, Android, iOS) - A Gopher-compatible browser for the Gemini protocol.
 - [Lynx](https://lynx.invisible-island.net/) (CLI, Linux)
 - [pherguson](https://github.com/olivierpilotte/pherguson) (CLI, Python)
 - [Pocket Gopher](https://github.com/afonsotrepa/PocketGopher) (GUI, Android)
@@ -58,9 +58,10 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 ## Gopher Frontends
 - [Gopherpedia](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopherpedia.com) (*) - Wikipedia 
 - [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn) (*) - Hacker News
-- [lite.cnn.com on gopher - inofficial](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (*) - CNN News
+- [lite.cnn.com on gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (*) - CNN News
 - [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
-- [Project Gutenberg](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.pglaf.org/) (*)
+- [Project Gutenberg (official, ugly)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.pglaf.org/) (*)
+- [Project Gutenberg (unofficial, nice)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/gutenberg) (*) - This is a... frontend to the Project Gutenberg frontent (!)
 
 ## Search Engines
 - [Contrition](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://forthworks.com/1/contrition) (*)
