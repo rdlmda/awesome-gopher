@@ -59,6 +59,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
 
 ## Search Engines
+- [Contrition](https://gopher.tildeverse.org/forthworks.com/1/contrition) (*)
 - [Quarry](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/quarry) (*)
 - [Veronica-2](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/v2) (*)
 
