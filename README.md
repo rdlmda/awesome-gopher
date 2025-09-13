@@ -25,7 +25,7 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in 
 
 You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 
-(*) items marked like this will open on a Gopher Proxy
+(*) items marked like this will open on Floodgap's Gopher Proxy
 
 ## Introduction to Gopher
 - ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher) (*)
@@ -60,20 +60,20 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn) (*) - Hacker News
 - [lite.cnn.com on gopher - inofficial](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (*) - CNN News
 - [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
-- [Project Gutenberg](https://gopher.tildeverse.org/gopher.pglaf.org/) (*)
+- [Project Gutenberg](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.pglaf.org/) (*)
 
 ## Search Engines
-- [Contrition](https://gopher.tildeverse.org/forthworks.com/1/contrition) (*)
+- [Contrition](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://forthworks.com/1/contrition) (*)
 - [Quarry](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/quarry) (*)
 - [Veronica-2](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/v2) (*)
 
 ## Gopherspace Census
 - [Floodgap's "All the gopher servers (that we know of)"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/world) (*)
-- [The Gopher Lawn](https://gopher.tildeverse.org/bitreich.org/1/lawn) (*)
+- [The Gopher Lawn](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://bitreich.org/1/lawn) (*)
 - [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/ogup) (*)
 
 ## Phlog aggregators
-- [Bongusta](https://gopher.tildeverse.org/i-logout.cz/1/bongusta/) (*)
+- [Bongusta](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://i-logout.cz/1/bongusta/) (*)
 - [Gopher.black's phlog aggregator](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.black:70/1/moku-pona) (*)
 
 ## Games
