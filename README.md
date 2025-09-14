@@ -60,6 +60,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn) (*) - Hacker News
 - [lite.cnn.com on gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (*) - CNN News
 - [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
+- [Lobste.rs](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://typed-hole.org/1/lobsters) (*)
 - [Project Gutenberg (official, ugly)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.pglaf.org/) (*)
 - [Project Gutenberg (unofficial, nice)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/gutenberg) (*) - This is a... frontend to the Project Gutenberg frontent (!)
 
@@ -71,7 +72,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 ## Gopherspace Census
 - [Floodgap's "All the gopher servers (that we know of)"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/world) (*)
 - [The Gopher Lawn](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://bitreich.org/1/lawn) (*)
-- [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/ogup) (*)
+- [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/1/ogup) (*)
 
 ## Phlog aggregators
 - [Bongusta](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://i-logout.cz/1/bongusta/) (*)
