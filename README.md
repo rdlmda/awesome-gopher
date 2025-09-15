@@ -30,6 +30,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 ## Introduction to Gopher
 - ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher) (*)
 - [Gopher article on the Tilde Club's Wiki](https://tilde.club/wiki/gopher.html)
+- [The Gopher Manifesto](http://27.org/gopher-manifesto/)
 
 ## Gopher Clients
 - [Bombadillo](https://bombadillo.colorfield.space/) (CLI, Linux)
