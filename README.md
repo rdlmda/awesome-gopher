@@ -31,6 +31,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher) (*)
 - [Gopher article on the Tilde Club's Wiki](https://tilde.club/wiki/gopher.html)
 - [The Gopher Manifesto](http://27.org/gopher-manifesto/)
+- [This wiki page](https://wiki.ryliejamesthomas.net/doku.php?id=gopher)
 
 ## Gopher Clients
 - [Bombadillo](https://bombadillo.colorfield.space/) (CLI, Linux)
@@ -42,6 +43,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Pocket Gopher](https://github.com/afonsotrepa/PocketGopher) (GUI, Android)
 
 ## Gopher Servers
+- [GoFish](https://gofish.sourceforge.net/): seems abandoned since 2012.
 - [Gopher2000](https://github.com/muffinista/gopher2000): a ruby-based Gopher server. It is built for speedy, enjoyable development of all sorts of gopher sites.
 - [Gophernicus](https://github.com/gophernicus/gophernicus): a modern, full-featured (and hopefully) secure gopher daemon.
 - [pygopherd](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.quux.org/1/devel/gopher/pygopherd) (*): the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
