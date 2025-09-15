@@ -43,6 +43,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Pocket Gopher](https://github.com/afonsotrepa/PocketGopher) (GUI, Android)
 
 ## Gopher Servers
+- [Atua](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://forthworks.com:70/1/atua) (*)
 - [GoFish](https://gofish.sourceforge.net/): seems abandoned since 2012.
 - [Gopher2000](https://github.com/muffinista/gopher2000): a ruby-based Gopher server. It is built for speedy, enjoyable development of all sorts of gopher sites.
 - [Gophernicus](https://github.com/gophernicus/gophernicus): a modern, full-featured (and hopefully) secure gopher daemon.
