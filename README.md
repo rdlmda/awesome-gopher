@@ -55,8 +55,9 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 ## HTTP Proxies
 ### Instances
 - [Floodgap Gopher Proxy](https://gopher.floodgap.com/gopher) [[Standard](https://gopher.floodgap.com/gopher/gw)] [[Lite](https://gopher.floodgap.com/gopher/gw.lite)]
-- [gopherproxy](https://gopher.tildeverse.org/) [[source](https://tildegit.org/tildeverse/gopherproxy)] - just add the gopher URL (minus "gopher://") after the first "/".
 - [SmolNet Portal](https://portal.mozz.us/): gopher://, gemini://, finger://, spartan://, text://, nex://
+- [Tildeverse's gopherproxy](https://gopher.tildeverse.org/) [[source](https://tildegit.org/tildeverse/gopherproxy)] - just add the gopher URL (minus "gopher://") after the first "/".
+- [zcrayfish's Gopher Proxy](https://gopher.zcrayfish.soy/gopherproxy.sh)
 
 ### Software
 - [Bucky](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://khzae.net/1/bucky) (*):  An HTTP proxy for the Bucktooth Gopher server
