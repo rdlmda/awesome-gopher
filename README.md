@@ -34,10 +34,13 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [This wiki page](https://wiki.ryliejamesthomas.net/doku.php?id=gopher)
 
 ## Gopher Clients
+- [ACID](https://gitlab.com/SSS8555/acid) (GUI, Windows)
 - [Bombadillo](https://bombadillo.colorfield.space/) (CLI, Linux)
+- [Elpher](https://thelambdalab.xyz/elpher/) (CLI, Emacs)
 - [Gophercle](https://github.com/k1gen/gophercle) (GUI, Android)
 - [Gophie](https://gophie.org/) (GUI, Java)
 - [Lagrange](https://gmi.skyjake.fi/lagrange/) (GUI, Windows, Linux, Android, iOS) - A Gopher-compatible browser for the Gemini protocol.
+- [Little Gopher Client](http://runtimeterror.com/tools/gopher/) (GUI, Windows, Linux, Mac)
 - [Lynx](https://lynx.invisible-island.net/) (CLI, Linux)
 - [pherguson](https://github.com/olivierpilotte/pherguson) (CLI, Python)
 - [Pocket Gopher](https://github.com/afonsotrepa/PocketGopher) (GUI, Android)
