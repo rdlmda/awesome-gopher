@@ -43,6 +43,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Lagrange](https://gmi.skyjake.fi/lagrange/) (GUI, Windows, Linux, Android, iOS) - A Gopher-compatible browser for the Gemini protocol.
 - [Little Gopher Client](http://runtimeterror.com/tools/gopher/) (GUI, Windows, Linux, Mac)
 - [Lynx](https://lynx.invisible-island.net/) (CLI, Linux)
+- [Overbite Android](https://gopher.floodgap.com/overbite/d?android) (Android 4.0+)
 - [pherguson](https://github.com/olivierpilotte/pherguson) (CLI, Python)
 - [Pocket Gopher](https://github.com/afonsotrepa/PocketGopher) (GUI, Android)
 
