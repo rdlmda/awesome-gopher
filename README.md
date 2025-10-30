@@ -36,6 +36,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 ## Gopher Clients
 - [ACID](https://gitlab.com/SSS8555/acid) (GUI, Windows)
 - [Bombadillo](https://bombadillo.colorfield.space/) (CLI, Linux)
+- [Chawan](https://sr.ht/~bptato/chawan/) (TUI, Linux / *NIX / macOS) - A web (and (S)FTP, Gopher, Gemini, ...) browser
 - [Elpher](https://thelambdalab.xyz/elpher/) (CLI, Emacs)
 - [Gophercle](https://github.com/k1gen/gophercle) (GUI, Android)
 - [Gophie](https://gophie.org/) (GUI, Java)
