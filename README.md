@@ -36,6 +36,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 ## Gopher Clients
 - [ACID](https://gitlab.com/SSS8555/acid) (GUI, Windows)
 - [Bombadillo](https://bombadillo.colorfield.space/) (CLI, Linux)
+- [Burow](https://github.com/sloumdrone/burrow) (GUI, Python) 
 - [Chawan](https://sr.ht/~bptato/chawan/) (TUI, Linux / *NIX / macOS) - A web (and (S)FTP, Gopher, Gemini, ...) browser
 - [Elpher](https://thelambdalab.xyz/elpher/) (CLI, Emacs)
 - [Gophercle](https://github.com/k1gen/gophercle) (GUI, Android)
@@ -56,6 +57,10 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [gosher](https://git.katolaz.net/gosher/): A simple Gopher server in a shell script
 - [pygopherd](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.quux.org/1/devel/gopher/pygopherd) (*): the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
 - [spacecookie](https://github.com/sternenseemann/spacecookie): gopher library & server written in Haskell.
+
+## Gopher Tools
+### Static Generators
+- [burrow](https://github.com/jamestomasino/burrow): burrow is a helper for building and managing a gopher hole.
 
 ## HTTP Proxies
 ### Instances
