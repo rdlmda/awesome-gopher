@@ -55,6 +55,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Gopher2000](https://github.com/muffinista/gopher2000): a ruby-based Gopher server. It is built for speedy, enjoyable development of all sorts of gopher sites.
 - [Gophernicus](https://github.com/gophernicus/gophernicus): a modern, full-featured (and hopefully) secure gopher daemon.
 - [gosher](https://git.katolaz.net/gosher/): A simple Gopher server in a shell script
+- [motsognir](gopher://gopher.viste.fr:70/1/projects/motsognir/): "a robust, reliable and easy to install open-source gopher server for Unix-like systems".
 - [pygopherd](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.quux.org/1/devel/gopher/pygopherd) (*): the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
 - [spacecookie](https://github.com/sternenseemann/spacecookie): gopher library & server written in Haskell.
 
