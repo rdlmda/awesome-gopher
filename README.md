@@ -67,6 +67,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 ### Instances
 - [Floodgap Gopher Proxy](https://gopher.floodgap.com/gopher) [[Standard](https://gopher.floodgap.com/gopher/gw)] [[Lite](https://gopher.floodgap.com/gopher/gw.lite)]
 - [SmolNet Portal](https://portal.mozz.us/): gopher://, gemini://, finger://, spartan://, text://, nex://
+- [Stephen Morley's Gopher Proxy](https://gopherproxy.meulie.net/development/)
 - [Tildeverse's gopherproxy](https://gopher.tildeverse.org/) [[source](https://tildegit.org/tildeverse/gopherproxy)] - just add the gopher URL (minus "gopher://") after the first "/".
 - [zcrayfish's Gopher Proxy](https://gopher.zcrayfish.soy/gopherproxy.sh)
 
