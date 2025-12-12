@@ -39,6 +39,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Burow](https://github.com/sloumdrone/burrow) (GUI, Python) 
 - [Chawan](https://sr.ht/~bptato/chawan/) (TUI, Linux / *NIX / macOS) - A web (and (S)FTP, Gopher, Gemini, ...) browser
 - [Elpher](https://thelambdalab.xyz/elpher/) (CLI, Emacs)
+- [The Gopher Client Browser for Windows](https://www.jaruzel.com/gopher/gopher-client-browser-for-windows/) (Windows)
 - [Gophercle](https://github.com/k1gen/gophercle) (GUI, Android)
 - [Gophie](https://gophie.org/) (GUI, Java)
 - [Lagrange](https://gmi.skyjake.fi/lagrange/) (GUI, Windows, Linux, Android, iOS) - A Gopher-compatible browser for the Gemini protocol.
