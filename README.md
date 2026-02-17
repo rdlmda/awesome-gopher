@@ -77,6 +77,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [gophper-proxy](https://github.com/muffinista/gophper-proxy): A PHP/JS-based proxy for gopher servers
 
 ## Gopher Frontends
+- [4-ch.net](gopher://gopher.someodd.zip:70/1/gateway/4_ch/) - Channel4 BBS (seems to be blocking web proxies)
 - [Gopherpedia](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopherpedia.com) (*) - Wikipedia 
 - [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn) (*) - Hacker News
 - [lite.cnn.com on gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (*) - CNN News
