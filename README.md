@@ -48,6 +48,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [Overbite Android](https://gopher.floodgap.com/overbite/d?android) (Android 4.0+)
 - [pherguson](https://github.com/olivierpilotte/pherguson) (CLI, Python)
 - [Pocket Gopher](https://github.com/afonsotrepa/PocketGopher) (GUI, Android)
+- [TreeGopher](https://github.com/dotcomboom/Pituophis#treegopher): sample Pituophis implementation (see the "Servers" section)
 
 ## Gopher Servers
 - [Atua](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://forthworks.com:70/1/atua) (*)
@@ -58,6 +59,7 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [gosher](https://git.katolaz.net/gosher/): A simple Gopher server in a shell script
 - [motsognir](gopher://gopher.viste.fr:70/1/projects/motsognir/): "a robust, reliable and easy to install open-source gopher server for Unix-like systems".
 - [pygopherd](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.quux.org/1/devel/gopher/pygopherd) (*): the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
+- [Pituophis](https://github.com/dotcomboom/Pituophis): Gopher client and server library for Python 
 - [spacecookie](https://github.com/sternenseemann/spacecookie): gopher library & server written in Haskell.
 
 ## Gopher Tools
