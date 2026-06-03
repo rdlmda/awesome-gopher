@@ -25,10 +25,10 @@ Inspired by [Awesome Lists](https://github.com/sindresorhus/awesome#readme), in 
 
 You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 
-(*) items marked like this will open on Floodgap's Gopher Proxy
+(🐹*) items marked like this will open on a Gopher Proxy
 
 ## Introduction to Gopher
-- ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher) (*)
+- ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher) (🐹)
 - [Gopher article on the Tilde Club's Wiki](https://tilde.club/wiki/gopher.html)
 - [The Gopher Manifesto](http://27.org/gopher-manifesto/)
 - [Rylie James Thomas' wiki page](https://wiki.ryliejamesthomas.net/doku.php?id=gopher)
@@ -52,14 +52,14 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [TreeGopher](https://github.com/dotcomboom/Pituophis#treegopher): sample Pituophis implementation (see the "Servers" section)
 
 ## Gopher Servers
-- [Atua](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://forthworks.com:70/1/atua) (*)
+- [Atua](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://forthworks.com:70/1/atua) (🐹)
 - [Flask-Gopher](https://github.com/michael-lazar/flask-gopher):  A Flask (Python framework) extension to support the Gopher protocol. Flask-Gopher is a Flask extension that adds a thin Gopher -> HTTP compatability layer around the built-in webserver. It allows you to build fully RFC 1466 compliant gopher servers, with complete access to Flask's routing, templating engine, debugger, and more!
 - [GoFish](https://gofish.sourceforge.net/): seems abandoned since 2012.
 - [Gopher2000](https://github.com/muffinista/gopher2000): a ruby-based Gopher server. It is built for speedy, enjoyable development of all sorts of gopher sites.
 - [Gophernicus](https://github.com/gophernicus/gophernicus): a modern, full-featured (and hopefully) secure gopher daemon.
 - [gosher](https://git.katolaz.net/gosher/): A simple Gopher server in a shell script
 - [motsognir](gopher://gopher.viste.fr:70/1/projects/motsognir/): "a robust, reliable and easy to install open-source gopher server for Unix-like systems".
-- [pygopherd](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.quux.org/1/devel/gopher/pygopherd) (*): the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
+- [pygopherd](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.quux.org/1/devel/gopher/pygopherd) (🐹): the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
 - [Pituophis](https://github.com/dotcomboom/Pituophis): Gopher client and server library for Python 
 - [spacecookie](https://github.com/sternenseemann/spacecookie): gopher library & server written in Haskell.
 
@@ -76,33 +76,33 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - [zcrayfish's Gopher Proxy](https://gopher.zcrayfish.soy/gopherproxy.sh)
 
 ### Software
-- [Bucky](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://khzae.net/1/bucky) (*):  An HTTP proxy for the Bucktooth Gopher server
+- [Bucky](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://khzae.net/1/bucky) (🐹):  An HTTP proxy for the Bucktooth Gopher server
 - [gophper-proxy](https://github.com/muffinista/gophper-proxy): A PHP/JS-based proxy for gopher servers
 
 ## Gopher Frontends
 - [4-ch.net](gopher://gopher.someodd.zip:70/1/gateway/4_ch/) - Channel4 BBS (seems to be blocking web proxies)
-- [Gopherpedia](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopherpedia.com) (*) - Wikipedia 
-- [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn) (*) - Hacker News
-- [lite.cnn.com on gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (*) - CNN News
+- [Gopherpedia](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopherpedia.com) (🐹) - Wikipedia 
+- [Hacker News on Gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/hn) (🐹) - Hacker News
+- [lite.cnn.com on gopher (inofficial)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://codevoid.de/1/cnn) (🐹) - CNN News
 - [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
-- [Lobste.rs](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://typed-hole.org/1/lobsters) (*)
-- [Project Gutenberg (official, ugly)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.pglaf.org/) (*)
-- [Project Gutenberg (unofficial, nice)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/gutenberg) (*) - This is a... frontend to the Project Gutenberg frontent (!)
+- [Lobste.rs](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://typed-hole.org/1/lobsters) (🐹)
+- [Project Gutenberg (official, ugly)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.pglaf.org/) (🐹)
+- [Project Gutenberg (unofficial, nice)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/gutenberg) (🐹) - This is a... frontend to the Project Gutenberg frontent (!)
 
 ## Search Engines
-- [Contrition](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://forthworks.com/1/contrition) (*)
-- [Quarry](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/quarry) (*)
-- [Veronica-2](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/v2) (*)
+- [Contrition](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://forthworks.com/1/contrition) (🐹)
+- [Quarry](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.icu/1/quarry) (🐹)
+- [Veronica-2](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/v2) (🐹)
 
 ## Gopherspace Census
-- [Floodgap's "All the gopher servers (that we know of)"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/world) (*)
-- [The Gopher Lawn](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://bitreich.org/1/lawn) (*)
-- [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/1/ogup) (*)
+- [Floodgap's "All the gopher servers (that we know of)"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/world) (🐹)
+- [The Gopher Lawn](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://bitreich.org/1/lawn) (🐹)
+- [OGUP (The Observable Gopherspace Universe Project)](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/1/ogup) (🐹)
 
 ## Phlog aggregators
-- [Bongusta](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://i-logout.cz/1/bongusta/) (*)
-- [Gopher.black's phlog aggregator](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.black:70/1/moku-pona) (*)
+- [Bongusta](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://i-logout.cz/1/bongusta/) (🐹)
+- [Gopher.black's phlog aggregator](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.black:70/1/moku-pona) (🐹)
 
 ## Games
-- [Hangman](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/1/hangman/) [[alt. link](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr:70/1/OnlineTools/hangman.cgi)] (*) - the Gopher-powered hangman game!
-- [World of Solitaire](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://worldofsolitaire.com/) (*) - Klondike & 79 other Gopher Solitaire Games!
+- [Hangman](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr/1/hangman/) [[alt. link](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.viste.fr:70/1/OnlineTools/hangman.cgi)] (🐹) - the Gopher-powered hangman game!
+- [World of Solitaire](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://worldofsolitaire.com/) (🐹) - Klondike & 79 other Gopher Solitaire Games!
