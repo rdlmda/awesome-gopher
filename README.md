@@ -31,7 +31,8 @@ You are **EXTREMELY** encouraged and welcomed to contribute to this list!
 - ["Getting started with gopher, software, more"](https://gopher.floodgap.com/gopher/gw.lite?a=gopher://gopher.floodgap.com/1/gopher) (*)
 - [Gopher article on the Tilde Club's Wiki](https://tilde.club/wiki/gopher.html)
 - [The Gopher Manifesto](http://27.org/gopher-manifesto/)
-- [This wiki page](https://wiki.ryliejamesthomas.net/doku.php?id=gopher)
+- [Rylie James Thomas' wiki page](https://wiki.ryliejamesthomas.net/doku.php?id=gopher)
+- [Nosy Cat Studios' wiki page](https://nosycat.notimetoplay.org/pmwiki.php/Main/Gopher)
 
 ## Gopher Clients
 - [ACID](https://gitlab.com/SSS8555/acid) (GUI, Windows)
