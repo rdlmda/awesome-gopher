@@ -52,6 +52,7 @@ a8"    `Y88 a8"     "8a 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
 ## Gopher Servers
 - [Atua](https://portal.mozz.us/gopher/forthworks.com:70/1/atua) (🐹)
 - [Flask-Gopher](https://github.com/michael-lazar/flask-gopher):  A Flask (Python framework) extension to support the Gopher protocol. Flask-Gopher is a Flask extension that adds a thin Gopher -> HTTP compatability layer around the built-in webserver. It allows you to build fully RFC 1466 compliant gopher servers, with complete access to Flask's routing, templating engine, debugger, and more!
+- [geomyidae](https://portal.mozz.us/gopher/bitreich.org/1/scm/geomyidae) (🐹): "A small C-based gopherd". By the bitreich.org crew. ([official web mirror](https://r-36.net/scm/geomyidae/))
 - [GoFish](https://gofish.sourceforge.net/): seems abandoned since 2012.
 - [Gopher2000](https://github.com/muffinista/gopher2000): a ruby-based Gopher server. It is built for speedy, enjoyable development of all sorts of gopher sites.
 - [Gophernicus](https://github.com/gophernicus/gophernicus): a modern, full-featured (and hopefully) secure gopher daemon.
