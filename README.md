@@ -88,7 +88,7 @@ a8"    `Y88 a8"     "8a 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
 - [Project Gutenberg (unofficial, nice)](https://portal.mozz.us/gopher/gopher.icu/1/gutenberg) (🐹) - This is a... frontend to the Project Gutenberg frontent (!)
 
 ### Software
-- [Gopherbay](http://parazyd.org/git/gopherbay/)([GitHub mirror](https://github.com/parazyd/gopherbay)) - Pirate Bay
+- [Gopherbay](http://parazyd.org/git/gopherbay/) ([GitHub mirror](https://github.com/parazyd/gopherbay)) - Pirate Bay
 - [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
 
 ## Search Engines
