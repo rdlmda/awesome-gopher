@@ -56,7 +56,7 @@ a8"    `Y88 a8"     "8a 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
 - [Gopher2000](https://github.com/muffinista/gopher2000): a ruby-based Gopher server. It is built for speedy, enjoyable development of all sorts of gopher sites.
 - [Gophernicus](https://github.com/gophernicus/gophernicus): a modern, full-featured (and hopefully) secure gopher daemon.
 - [gosher](https://git.katolaz.net/gosher/): A simple Gopher server in a shell script
-- [motsognir](gopher://gopher.viste.fr:70/1/projects/motsognir/): "a robust, reliable and easy to install open-source gopher server for Unix-like systems".
+- [motsognir](https://portal.mozz.us/gopher/gopher.viste.fr:70/1/projects/motsognir/) (🐹): "a robust, reliable and easy to install open-source gopher server for Unix-like systems".
 - [pygopherd](https://portal.mozz.us/gopher/gopher.quux.org/1/devel/gopher/pygopherd) (🐹): the advanced, multi-protocol Gopher server! PyGopherd is a unique HTTP server as well.
 - [Pituophis](https://github.com/dotcomboom/Pituophis): Gopher client and server library for Python 
 - [spacecookie](https://github.com/sternenseemann/spacecookie): gopher library & server written in Haskell.
