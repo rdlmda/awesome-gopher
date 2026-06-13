@@ -78,14 +78,18 @@ a8"    `Y88 a8"     "8a 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
 - [gophper-proxy](https://github.com/muffinista/gophper-proxy): A PHP/JS-based proxy for gopher servers
 
 ## Gopher Frontends
+### Instances
 - ~~[4-ch.net](https://portal.mozz.us/gopher/gopher.someodd.zip:70/1/gateway/4_ch/) - Channel4 BBS (seems to be blocking web proxies)~~ Apparently it's down.
 - [Gopherpedia](https://portal.mozz.us/gopher/gopherpedia.com) (🐹) - Wikipedia 
 - [Hacker News on Gopher (inofficial)](https://portal.mozz.us/gopher/codevoid.de/1/hn) (🐹) - Hacker News
 - [lite.cnn.com on gopher (inofficial)](https://portal.mozz.us/gopher/codevoid.de/1/cnn) (🐹) - CNN News
-- [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
 - [Lobste.rs](https://portal.mozz.us/gopher/typed-hole.org/1/lobsters) (🐹)
 - [Project Gutenberg (official, ugly)](https://portal.mozz.us/gopher/gopher.pglaf.org/) (🐹)
 - [Project Gutenberg (unofficial, nice)](https://portal.mozz.us/gopher/gopher.icu/1/gutenberg) (🐹) - This is a... frontend to the Project Gutenberg frontent (!)
+
+### Software
+- [Gopherbay](http://parazyd.org/git/gopherbay/)([GitHub mirror](https://github.com/parazyd/gopherbay)) - Pirate Bay
+- [Hacker News](https://github.com/michael-lazar/hn-gopher) - Engine used on the defunct hngopher.com
 
 ## Search Engines
 - [Contrition](https://portal.mozz.us/gopher/forthworks.com/1/contrition) (🐹)
